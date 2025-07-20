@@ -1,0 +1,14 @@
+				
+				
+				randQuant = random.nextInt(125);
+				randPrice = random.nextInt(1,5);
+				Potion Pot = new Potion(0,randQuant,randPrice,"Potion");
+				randQuant = random.nextInt(125);
+				randPrice = random.nextInt(50);
+				Potion PotS = new Potion(0,randQuant,randPrice,"Small Potion");
+				randQuant = random.nextInt(125);
+				randPrice = random.nextInt(51,150);
+				Potion PotM = new Potion(0,randQuant,randPrice,"Medium Potion");
+				randQuant = random.nextInt(125);
+				randPrice = random.nextInt(151,250);
+				Potion PotL = new Potion(0,randQuant,randPrice,"Large Potion");

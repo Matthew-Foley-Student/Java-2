@@ -1,0 +1,54 @@
+{
+	"weaponList" : [{
+		"tempVal" : 0,
+		"Stock" : 50,
+		"Price" : 25,
+		"Name" : "LongSword"
+	},{
+		"tempVal" : 0,
+		"Stock" : 50,
+		"Price" : 25,
+		"Name" : "Scimitar"
+	}.{
+		"tempVal" : 0,
+		"Stock" : 50,
+		"Price" : 25,
+		"Name" : "Rapiar"
+	},{
+		"tempVal" : 0,
+		"Stock" : 50,
+		"Price" : 2,
+		"Name" : "Dagger"
+	},{
+		"tempVal" : 0,
+		"Stock" : 50,
+		"Price" : 1,
+		"Name" : "Javlin"
+	},{
+		"tempVal" : 0,
+		"Stock" : 50,
+		"Price" : 15,
+		"Name" : "WarHammer"
+	},{
+		"tempVal" : 0,
+		"Stock" : 50,
+		"Price" : 3,
+		"Name" : "Staff"
+	},{
+		"tempVal" : 0,
+		"Stock" : 50,
+		"Price" : 25,
+		"Name" : "ShortBow"
+	},{
+		"tempVal" : 0,
+		"Stock" : 50,
+		"Price" : 50,
+		"Name" : "LongBow"
+	},{
+		"tempVal" : 0,
+		"Stock" : 50,
+		"Price" : 75,
+		"Name" : "Crossbow"
+	}]
+}
+

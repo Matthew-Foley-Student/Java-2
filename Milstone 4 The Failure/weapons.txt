@@ -1,0 +1,10 @@
+0 | 50 | 25 | LongSword
+0 | 50 | 25 | Scimitar
+0 | 50 | 25 | Rapiar
+0 | 50 | 2 | Dagger
+0 | 50 | 1 | Javlin
+0 | 50 | 15 | WarHammer
+0 | 50 | 3 | Staff
+0 | 50 | 25 | ShortBow
+0 | 50 | 50 | LongBow
+0 | 50 | 75 | Crossbow

@@ -1,0 +1,14 @@
+				
+				
+				randQuant = random.nextInt(125);
+				randPrice = random.nextInt(10);
+				Armor Shield = new Armor(0,randQuant,randPrice,"Shield");
+				randQuant = random.nextInt(125);
+				randPrice = random.nextInt(10);
+				Armor Leather = new Armor(0,randQuant,randPrice,"Hard Leather");
+				randQuant = random.nextInt(125);
+				randPrice = random.nextInt(10,50);
+				Armor Chain = new Armor(0,randQuant,randPrice,"Chain Mail");
+				randQuant = random.nextInt(125);
+				randPrice = random.nextInt(50,150);
+				Armor Plate = new Armor(0,randQuant,randPrice,"Plate");
